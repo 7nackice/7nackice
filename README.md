@@ -9,6 +9,8 @@
   
   <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpeYgd0q5kLhU6QO7PULR_8dKEePaJKkCv4W8iHVs8Y2PR1PMjhS0y91LObcCzJg2H8Nk&usqp=CAU" alt="<малик в 2009>" />
 </div>
+
 ## fhhfh
--[x] отмеченный пункт
+
+- [x] отмеченный пункт
 - [ ] неотмеченный пункт
